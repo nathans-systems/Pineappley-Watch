@@ -26,12 +26,16 @@ A digital watch with a transparent OLED display driven by a ESP32C3 on my custom
 This project has my first 4 layer, 2 sided PCB. I chose this stack to make it as compact as possible keeping my voltage bus, charger, microcontroller all in a small package.
 ## Charger and regulator
 <img width="1439" height="1251" alt="6" src="https://github.com/user-attachments/assets/7e4181f0-e60d-4413-abe6-61d44c93a77a" />
+
 ## Real time Clock
 <img width="1393" height="1000" alt="8" src="https://github.com/user-attachments/assets/da36ffb9-79a7-4fb6-9f1e-3cc083b7e60e" />
+
 ## 12V Boost
 <img width="1500" height="1429" alt="7" src="https://github.com/user-attachments/assets/73f77dd9-76ea-4ce2-a25a-50133d87927d" />
+
 ## ESP and Peripherals
 <img width="1500" height="1379" alt="9" src="https://github.com/user-attachments/assets/d4008d8f-5143-43ab-9d00-373128f49316" />
+
 ## Final VS Debug Board
 <img width="1500" height="1000" alt="10" src="https://github.com/user-attachments/assets/f19a450a-2cef-4c94-b028-165a76ded716" />
 
