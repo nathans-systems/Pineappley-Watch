@@ -46,3 +46,5 @@ The Watch stays on 24/7 to keep counting time but Deep Sleeps after 90 seconds o
 # Showcase
 Here is a little showcase GIF of the firmware features I’m hosting on my server, too big to keep in the README
 https://cloud.webplanet.ie/nextcloud/index.php/s/4JbjHRAqcWJgZ6F
+
+(added even more features since this showcase)
